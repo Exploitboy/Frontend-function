@@ -1,5 +1,4 @@
-# Frontend-function
-# Function Frontened Solidity Project
+# Function Frontened Solidity Project :
 
 The Assessment Solidity Smart Contract is a blockchain-based application written in Solidity, designed to provide a secure and transparent way for users to manage their balances, set user names, deposit Ether, and withdraw funds. In the same way index javascript file create a frontened for the users to interact with their smart contract.
 This README FILE provides an overview of the contract's functionalities and instructions for setting up and using the contract.
