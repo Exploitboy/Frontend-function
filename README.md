@@ -47,7 +47,7 @@ After this, the project will be running on your localhost.
 Typically at http://localhost:3000/
 
 ## Help
-If you encounter any issues or have questions about using the smart contract, please contact [aksv67890@gmial.com].
+If you encounter any issues or have questions about using the smart contract, please contact [aksv67890@gmail.com].
 
 ## Authors
 
